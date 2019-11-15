@@ -1,2 +1,1 @@
-# SimpleCalc
-Simple calculator
+# SimpleCalculator
